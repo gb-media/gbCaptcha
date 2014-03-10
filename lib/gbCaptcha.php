@@ -2,7 +2,7 @@
 /**
  * erstellt ein captcha bild
  * 
- * @version 0.0.1
+ * @version 1.0.0
  * @author gb-media <github@gb-media.biz>
  * 
  */
