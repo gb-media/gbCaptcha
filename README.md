@@ -3,6 +3,8 @@ gbCaptcha
 
 make captcha code image per PHP and show it directly
 
+![gbCaptcha](http://www.gravatar.com/userimage/62559707/093898d392ad09020dfcb953a7e3d9f3?size=120)
+
 Usage
 =====
 
